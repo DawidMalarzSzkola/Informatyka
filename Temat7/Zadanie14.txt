@@ -1,0 +1,4 @@
+Wydaje mi się, że wszystkie sortowania będą miały tą samą liczbę operacji ponieważ algorytm sortowania wykonuje w jednej fazie n-1 porwównań.
+a) n^2 - n / 2
+b) n^2 - n / 2
+c) n^2 - n / 2
